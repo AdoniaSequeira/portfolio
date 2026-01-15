@@ -49,14 +49,14 @@ This repository represents not just a website, but a **production-style cloud pr
 ---
 
 ## 📁 Repository Structure
-'''
+```
 .github/workflows/ # CI/CD pipelines
 site/ # Static website (HTML/CSS/JS)
 api/ # Serverless APIs (Lambda functions)
 docker/ # Local development & containerization
 specs/ # Planning docs and monthly update specs
 docs/ # Architecture diagrams and documentation
-'''
+```
 ---
 
 ## 🔁 Update & Maintenance Workflow
@@ -115,3 +115,4 @@ This portfolio is built to:
 ---
 
 *Built with a focus on clarity, scalability, and practical engineering.*
+
